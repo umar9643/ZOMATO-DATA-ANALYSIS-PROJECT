@@ -16,7 +16,7 @@ This project is a comprehensive **Exploratory Data Analysis (EDA)** of Zomato's 
 
 ## 📦 Dataset Overview
 
-- **Source**: [Kaggle / Zomato Dataset] *(if you got it from there)*
+- **Source**: [Kaggle / Zomato Dataset] 
 - **Format**: CSV
 - **Size**: ~9,000+ rows × multiple features
 - **Key Columns**:
@@ -66,23 +66,7 @@ This project is a comprehensive **Exploratory Data Analysis (EDA)** of Zomato's 
 
 ---
 
-## 📊 Key Visual Insights
 
-### 🔹 1. Restaurant Distribution by City
-![City-wise Restaurants](#)
-
-### 🔹 2. Rating Distribution
-![Rating Histogram](#)
-
-### 🔹 3. Top 10 Cuisines
-![Top Cuisines](#)
-
-### 🔹 4. Cost for Two vs Rating
-![Scatter Plot](#)
-
-*(Add image files if you want GitHub to display these visuals)*
-
----
 
 ## 🧠 Key Insights
 
@@ -108,6 +92,7 @@ Zomato-Data-Analysis/
 
 
 👨‍💻 Author
+
 Umar Alam
 📧 [alamumar258455@gmail.com]
 🔗 www.linkedin.com/in/umar-alam-a1b2c3
